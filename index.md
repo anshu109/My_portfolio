@@ -6,12 +6,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/seoul-bikes.jpeg?raw=true" style="height: 435px"/>
 
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
+<b>Skills used:</b> Python,Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Logistic Regression
+
+<b>Project objctive: </b> By predicting the bike rental demand in advance from weather forecast, Bike Rental Company position the bike according to customers demands resulting in increase in bike utilization.
+
+<b>Quantifiable Result:</b> We could predict the rentals bike count resulting in 48% accuracy.
+
+   - Used Linear Regression to predict the number of bikes rented in the city of Seoul
+   - The data had quite a few categorical variables which were encoded for use in the model
+   - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+   - Fit a multiple linear regression model with high prediction accuracy through iteration
 
 ***
 
