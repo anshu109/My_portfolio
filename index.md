@@ -21,7 +21,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Predict if the client will subscribe a term deposit using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Predict if the client will subscribe a term deposit using a logistic classifier](https://github.com/anshu109/logistic-project/blob/master/logistic_project.ipynb)
 
 <img src="images/bank.jpeg?raw=true"/>
 
@@ -38,10 +38,15 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal](https://github.com/anshu109/knn_naive_project/blob/master/knn_naive_bias_project.ipynb)
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
+**Skilled Used**- Pandas, Numpy, Matplotlib, sklearn
+**Project Objective**: The classification goal is to predict of orthopedic parameters and provided with their classification as Normal or Abnormal.
+
+**Quantifiable Result**: We could predict the orthopedic patient is Normal or Abnormal Accuracy of the Naive Bayes Clasification is 82.26% .
+
+- Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
 - Selected best model based on train and test performance
