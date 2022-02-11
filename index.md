@@ -21,9 +21,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Predict if the client will subscribe a term deposit using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
 
-<img src="images/breast-cancer.jpeg?raw=true"/>
+<img src="images/bank.jpeg?raw=true"/>
 
 **Skilled Used**- Pandas, Numpy, Matplotlib, sklearn
 
