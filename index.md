@@ -12,7 +12,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <b>Project objctive: </b> By predicting the bike rental demand in advance from weather forecast, Bike Rental Company position the bike according to customers demands resulting in increase in bike utilization.
 
-<b>Quantifiable Result:</b> We could predict the rentals bike count resulting in 48% accuracy.
+<b>Quantifiable Result:</b> We could predict the rentals bike count resulting in 48% **accuracy**.
 
    - Used Linear Regression to predict the number of bikes rented in the city of Seoul
    - The data had quite a few categorical variables which were encoded for use in the model
@@ -24,6 +24,12 @@ Here are some of my best Data Science Projects. I have explored various machine-
 [Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
+
+**Skilled Used**- Pandas, Numpy, Matplotlib, sklearn
+
+**Project objective**: In this project I worked with real world data which is related with direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict if the client will subscribe a term deposit or not  
+
+**Quantifiable result**: We could predict 90.6% **Accuracy** in UCI BANK Data
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
